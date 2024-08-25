@@ -1,7 +1,7 @@
 # 🛡️ Police Shootings Analysis
 
 ## Project Objective
-The aim of this project is to conduct a thorough analysis of the Washington Post Police Shootings dataset using SQL within Jupyter Notebook. The goal is to uncover patterns and insights regarding the demographics of those involved, the circumstances of the shootings, and the use of body cameras. These insights are crucial for informing discussions on police practices and developing strategies to reduce such incidents.
+The aim of this project is to conduct a thorough analysis of the Washington Post Police Shootings dataset from 2015-2024 using SQL within Jupyter Notebook. The goal is to uncover patterns and insights regarding the demographics of those involved, the circumstances of the shootings, and the use of body cameras. These insights are crucial for informing discussions on police practices and developing strategies to reduce such incidents.
 
 ## Data Source
 The dataset used in this analysis is sourced from **[Kaggle](https://www.kaggle.com/)**, originally compiled by The Washington Post. It includes detailed records of police shootings across the United States.
